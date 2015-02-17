@@ -29,17 +29,17 @@
 #main-banner-header {
 	font: 2.7em "Avenir Bold" ;
 	color: rgb(112,112,112);
-	letter-spacing: 1px;
+	letter-spacing: 1.3px;
 }
 
 #main-banner #main-banner-header {
-	margin-left:1070px; 
-	margin-top:-2180px;
+	margin-left:1060px; 
+	margin-top:-3427px;
 }
 
-#main-banner-bullets {
-	margin-left:1048px;
-	margin-top: -5px;
+#bullets-list {
+	margin-left:1039px;
+	margin-top: -15px;
 	font: normal 16px "Arial";
 	color: rgb(112,112,112);
 }
