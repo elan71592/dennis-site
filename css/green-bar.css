@@ -1,0 +1,15 @@
+.green-bar {
+	background-color: rgb(140,195,100);
+	width:80px;
+	height:9px;
+	position:absolute;
+	margin-left: 935px;
+	margin-top: 96px;
+	border-radius: 10px ;
+	visibility: visible !important;
+}
+
+#main-navi a#green {
+	color: rgb(140,195,100);
+	visibility: visible !important;
+}

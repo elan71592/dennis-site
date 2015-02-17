@@ -1,0 +1,15 @@
+.aqua-bar {
+	background-color: rgb(29,184,185);
+	width:80px;
+	height:9px;
+	position:absolute;
+	margin-left: 1122px;
+	margin-top: 96px;
+	border-radius: 10px ;
+	visibility: visible !important;
+}
+
+#main-navi a#aqua {
+	color: rgb(29,184,185);
+	visibility: visible !important;
+}

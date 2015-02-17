@@ -1,0 +1,15 @@
+.purple-bar {
+	background-color: rgb(119,35,124);
+	width:80px;
+	height:9px;
+	position:absolute;
+	margin-left: 1029px;
+	margin-top: 96px;
+	border-radius: 10px ;
+	visibility: visible !important;
+}
+
+#main-navi a#purple {
+	color: rgb(119,35,124);
+	visibility: visible !important;
+}

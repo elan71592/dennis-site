@@ -1,0 +1,15 @@
+.light-red-bar {
+	background-color: rgb(205,67,101);
+	width:110px;
+	height:9px;
+	position:absolute;
+	margin-left: 1214px;
+	margin-top: 96px;
+	border-radius: 10px ;
+	visibility: visible !important;
+}
+
+a#light-red {
+	color: rgb(205,67,105);
+	visibility: visible !important;
+}

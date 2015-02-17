@@ -1,0 +1,15 @@
+.grey-bar {
+	background-color: rgb(119,119,119);
+	width:43px;
+	height:9px;
+	position:absolute;
+	margin-left: 1396px;
+	margin-top: 96px;
+	border-radius: 10px ;
+	visibility: visible !important;
+}
+
+a#grey {
+	color: rgb(119,119,119);
+	visibility: visible !important;
+}
