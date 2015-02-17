@@ -1,3 +1,15 @@
+@font-face {
+	font-family: "Avenir Bold" ;
+	src: url(../fonts/avenir-bold.ttf);
+}
+
+@font-face {
+	font-family: "Avenir Regular";
+	src:url(../fonts/avenir-regular.ttf);
+}
+
+
+
 .green-bar {
 	background-color: rgb(140,195,100);
 	width:80px;
@@ -13,3 +25,22 @@
 	color: rgb(140,195,100);
 	visibility: visible !important;
 }
+
+#main-banner-header {
+	font: 2.7em "Avenir Bold" ;
+	color: rgb(112,112,112);
+	letter-spacing: 1px;
+}
+
+#main-banner #main-banner-header {
+	margin-left:1070px; 
+	margin-top:-2180px;
+}
+
+#main-banner-bullets {
+	margin-left:1048px;
+	margin-top: -5px;
+	font: normal 16px "Arial";
+	color: rgb(112,112,112);
+}
+
